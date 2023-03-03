@@ -1,0 +1,1 @@
+## Long TO String yaparken String classının valueOf metodunu kullandım.
